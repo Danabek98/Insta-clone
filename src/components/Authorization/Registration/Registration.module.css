@@ -1,0 +1,61 @@
+.MainBlock{
+    width: 380px;
+    height: 420px;
+    border: 0.5px solid rgb(214, 210, 210);
+    margin: 0 auto;
+    margin-top: 60px;
+
+}
+
+.LogoArea{
+    height: 130px;
+}
+.InLogo{
+    width: 170px;
+    margin-top: 40px;
+}
+
+.InputArea{
+    width: 250px;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 1px;
+    border-width: 0.5px;
+}
+
+.EnterBtn{
+    width: 255px;
+    height: 40px;
+    border-radius: 10px;
+    border-width: 0;
+    background-color: rgb(150, 204, 249);
+    color: white;
+}
+
+.NoAccountArea{
+    width: 380px;
+    height: 60px;
+    border: 1px solid rgb(214, 210, 210);
+    margin: 10px auto;
+}
+
+.NoAccountTextArea{
+    margin-top: 15px;
+}
+
+.FaIcon img{
+    width: 15px;
+}
+
+.fromFacebook a{
+    text-decoration: none;
+    color: darkblue;
+    font-weight:500;
+}
+
+.RegLink{
+    color: cornflowerblue;
+    font-weight:500;
+    text-decoration: none;
+
+}

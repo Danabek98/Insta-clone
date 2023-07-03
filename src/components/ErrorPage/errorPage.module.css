@@ -1,0 +1,16 @@
+
+.Main h1{
+    color: blue;
+}
+
+.Btn{
+    width: 150px;
+    height: 50px;
+    margin-top: 20px;
+    border-radius: 15px;
+    font-size: 14pt;
+    background-color: #fff;
+    border-color: cyan;
+    color: blue;
+}
+

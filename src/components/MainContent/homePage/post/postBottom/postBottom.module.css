@@ -1,0 +1,82 @@
+
+
+.main{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    text-align: left;
+    
+}
+
+.main p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.likesArea{
+    width: 500px;
+    height: 25px;
+    margin-top: 5px;
+    text-align: left;
+}
+.likeCount{
+    font-weight: 500;
+    margin-top: 2px;
+}
+.descriptionArea{
+    display: flex;
+}
+
+.accountName{
+    font-weight: 500;
+    margin-right: 10px;
+    margin-top: 0;
+}
+
+.CommentArea{
+    margin-top: 5px;
+    display: flex;
+    margin-bottom: 5px;
+}
+.CommentImageArea {
+    width: 40px;
+    height: 40px;
+    margin-right: 20px;
+}
+
+.CommentImageArea img{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    margin-top: 5px;
+}
+
+
+
+.AccountCommentator{
+    font-weight: 500;
+}
+.poForm {
+    position: relative;
+    width: 500px;
+  }
+  .newComment, .newCommentBtn {
+    border: none;
+    outline: none;
+    background: transparent;
+  }
+  .newCommentBtn {
+    height: 20px;
+    width: 20px;
+    margin-top: 10px;
+    position: absolute;
+    right: 0;
+    cursor: pointer;
+  }
+
+.newComment{
+    height: 30px;
+    width: 450px;
+    border: none;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}

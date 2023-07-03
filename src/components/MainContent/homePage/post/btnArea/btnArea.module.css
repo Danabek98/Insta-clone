@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+    padding:5px 0;
+}
+
+.btnIcon{
+    width: 25px;
+    margin-right: 20px;
+}
+
+.saveBtn{
+    margin-left: auto;
+    margin-right: 0px;
+
+}

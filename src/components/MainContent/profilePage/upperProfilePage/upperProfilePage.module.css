@@ -1,0 +1,55 @@
+.main{
+    width: 650px;
+    height: 180px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.main p{
+    padding: 0;
+    margin: 0;
+}
+.ava{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: aliceblue;
+}
+
+.infoBlock{
+    display: flex;
+    justify-content: space-between;
+    width: 450px;
+    margin-top: 10px;
+    height: 40px;
+    font-size: 14pt;
+}
+.account{
+    font-weight: 500;
+}
+
+.editBtn{
+    height: 30px;
+    margin-right: 5px;
+    background-color: rgb(239, 239, 239);
+    border: none;
+    border-radius: 5px;
+    font-weight: bolder;
+    transition: 0.4s;
+    padding: 0 10px;
+}
+.editBtn:hover{
+    background-color: rgb(219, 219, 219);
+}
+
+
+.optionBtn{
+    width: 30px;
+    height: 30px;
+    border: none;
+}
+
+.aboutMe{
+    font-style:italic;
+    font-weight: 500;
+}

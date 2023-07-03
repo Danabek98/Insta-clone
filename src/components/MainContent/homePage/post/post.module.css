@@ -1,0 +1,43 @@
+.postArea{
+    width: 500px;
+    border-bottom: 1px solid #c8c1c8;
+    margin: 30px auto;
+}
+
+.header{
+    width: 500px;
+    height: 70px;
+    display: flex;
+    
+}
+.headAva{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    margin: 15px 0px;
+    margin-right: 20px;
+}
+
+.headAccaount{
+    font-size: 15pt;
+    font-weight: 600;
+    margin-right: 20px;
+}
+
+.headDate{
+    font-size: 15pt;
+    font-weight: 400;
+    color: gray;
+    list-style-type:circle;
+}
+
+.content{
+    width: 500px;
+    height: 600px;
+    overflow: hidden;
+    
+}
+
+.contentImage{
+    width: 500px;
+}

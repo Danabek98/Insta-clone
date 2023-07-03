@@ -1,0 +1,49 @@
+.Content{
+    margin-top: 30px;
+    width: 320px;
+}
+
+.logoInstagram{
+    width: 180px;
+    margin: 0 auto;
+}
+
+.pageList{
+    padding: 0;
+}
+
+.list{
+    text-align: left;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    list-style-type: none;
+    font-size: 14pt;
+    font-weight: 400;
+    border-radius: 8px;
+    width: 240px;
+    height: 50px;
+    display: flex;
+    transition: 0.4s;
+    padding-left: 10px;
+}
+.list:hover{
+    background-color: #e6e3e3;
+}
+.listIcon{
+    width: 30px;
+    margin: auto 0;
+    margin-right: 20px; 
+}
+
+.listText{
+    margin: auto 0;
+}
+
+.listText a{
+    text-decoration: none;
+    color: black;
+}
+
+a.active_link{
+    font-weight: 700;
+}

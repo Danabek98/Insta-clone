@@ -1,0 +1,61 @@
+.main{
+    width: 390px;
+    text-align: left;
+    margin-top: 50px;
+}
+.main p{
+    margin: 0;
+}
+
+
+
+.myProfile{
+    display: flex;
+}
+.myAvaArea{
+    width: 70px;
+    height: 70px;
+    margin-right: 20px;
+}
+.adminAva{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.myName{
+    font-weight: 500;
+    padding-top: 10px;
+}
+
+
+
+.recForYou{
+    padding: 20px 0;
+    font-weight: 500;
+    color: grey;
+}
+
+.recArea{
+    margin-bottom: 15px;
+    display: flex;
+}
+.imgArea{
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+
+.ava{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.account{
+    font-weight: 500;
+}
+
+.recText{
+    color: grey;
+}

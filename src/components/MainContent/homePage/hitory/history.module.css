@@ -1,0 +1,35 @@
+.historiesArea{
+    margin-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+    display: flex;
+
+}
+
+.historiesArea p{
+    margin-top: 0;
+    
+}
+
+.historyArea{
+    margin-left: 15px;
+    width: 80px;
+}
+.AvaBorder{
+    width: 70px;
+    height: 70px;
+    padding: 4px;
+    border-radius: 50%;
+    background: linear-gradient(90deg, rgba(211,209,45,1) 0%, rgba(232,76,76,1) 50%, rgba(252,69,248,1) 100%);
+
+}
+.historyAva{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    /* border: 5px solid rgb(235, 96, 96);
+    border-image: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+border-image-slice: 2; */
+    
+}

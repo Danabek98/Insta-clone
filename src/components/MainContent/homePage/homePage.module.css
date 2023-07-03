@@ -1,0 +1,21 @@
+.main{
+    display: flex;
+}
+
+.leftArea{
+    width: 750px;
+    min-width: 650px;
+    height: 1000px;
+    
+}
+
+.rightArea{
+    width: 390px;
+    height: 500px;
+    max-width: 800px;
+    
+}
+
+.PostArea{
+    align-items: center;
+}
